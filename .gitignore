@@ -2,3 +2,4 @@ _site/
 ignore/
 .DS_Store
 .idea/
+.mypy_cache/

@@ -19,7 +19,7 @@ Hi there! Welcome to my personal website. I created this space to showcase any a
     <figcaption>Source: Google images</figcaption>
 </figure>
 
-I am passionate about AI as a field that stitches together concepts from Computer Science, Neuroscience and Philosophy. The deeper we delve into AI, the greater the need arises to introspect our thoughts. This fun exercise allows us to explore how our mind works (of which a lot I will share), how we perceive the environment around us (as agents within) and on this journey, we may also learn truly personal unique attributes about ourselves.
+I am passionate about AI as a field that stitches together concepts from Computer Science, Neuroscience and Philosophy. The deeper we delve into AI, the greater the need arises to introspect our own thoughts. This fun exercise allows us to explore how our mind works (of which a lot I will share), how we perceive the environment around us (as agents within) and on this journey, we may also learn truly personal unique attributes about ourselves.
 
 <figure class="align-center">
     <img width="500" height="300" src="/images/introspection.jpg">
