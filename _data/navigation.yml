@@ -1,18 +1,7 @@
-# main links
-main:
-  - title: "About"
-    url: /about/
-  - title: "Machine Learning"
-    url: /machine-learning/
-  - title: "Visualizations"
-    url: /visualizations/
-  - title: "Projects"
-    url: /splash-page/    
-  # - title: "About"
-  #   url: https://mmistakes.github.io/minimal-mistakes/about/
-  # - title: "Sample Posts"
-  #   url: /year-archive/
-  # - title: "Sample Collections"
-  #   url: /collection-archive/
-  # - title: "Sitemap"
-  #   url: /sitemap/
+# main links links
+main:       
+  - title: "Blog"
+    url: /year-archive/
+    
+  - title: "CV"
+    url: /cv/
