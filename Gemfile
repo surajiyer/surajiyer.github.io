@@ -1,3 +1,4 @@
+# reference: https://mmistakes.github.io/minimal-mistakes/docs/installation/
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -10,6 +11,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 
 gem "github-pages", group: :jekyll_plugins
+gem "minimal-mistakes-jekyll"
 
 # If you want to use Jekyll native, uncomment the line below.
 # To upgrade, run `bundle update`.
@@ -17,6 +19,7 @@ gem "github-pages", group: :jekyll_plugins
 # gem "jekyll"
 
 gem "wdm", "~> 0.1.0" if Gem.win_platform?
+gem 'tzinfo-data', platforms: [:mingw, :mswin, :x64_mingw] if Gem.win_platform?
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
